@@ -1,0 +1,35 @@
+title: "Miguel Cabrita | AI Adoption Expert"
+description: "Transforming Businesses with AI-Powered Solutions and Data Strategies"
+baseurl: "" 
+url: "https://miguelcabrita.github.io" 
+theme: jekyll-theme-minimal 
+
+# Site settings
+author: "Miguel Cabrita"
+email: "m.antunes.cabrita@gmail.com"
+social_links:
+  linkedin: "https://www.linkedin.com/in/miguelcabrita"
+  github: "https://github.com/username"
+  twitter: "https://twitter.com/yourhandle"
+
+# Google Analytics (optional)
+# google_analytics: "UA-XXXXXXXX-X"
+
+# Plugins (optional)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Navigation menu
+nav:
+- title: "Home"
+  url: /
+- title: "About"
+  url: /about/
+- title: "Portfolio"
+  url: /portfolio/
+- title: "Services"
+  url: /services/
+- title: "Contact"
+  url: /contact/
