@@ -1,11 +1,9 @@
 ---
 layout: default
-title: "Welcome to My Professional Space"
+title: "Miguel Cabrita | AI Adoption Expert"
 excerpt: "AI Adoption Expert dedicated to transforming businesses with AI solutions."
 author_profile: true
 ---
-
-# Welcome to My Professional Space
 
 I'm Miguel Cabrita, an AI Adoption Expert focused on leveraging AI to drive business success. Explore how I can help transform your business through innovative AI-powered solutions.
 
