@@ -22,13 +22,13 @@ I offer personalized consulting sessions to help you with your data strategy and
 **Price:** €200  
 **Description:** A focused 1-hour session to address specific AI and data strategy questions.
 
-[Book Now!](https://buy.stripe.com/bIY6so7oq2eOes05kk){: .btn target="_blank"}
+[Book Now!](https://calendar.app.google/RuuhBDEV7yJwnBvW8){: .btn target="_blank"}
 
 #### 2-Hour Deep Dive
 **Price:** €350  
 **Description:** A comprehensive 2-hour session for in-depth exploration of AI and data strategies.
 
-[Book Now!](https://buy.stripe.com/28obMIaAC6v4cjS8wx){: .btn target="_blank"}
+[Book Now!](https://calendar.app.google/t8dZKS8YrLvta2qi6){: .btn target="_blank"}
 
 
 ### Monthly Packages
