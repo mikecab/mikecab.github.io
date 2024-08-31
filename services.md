@@ -62,10 +62,3 @@ For organizations seeking extensive AI support and expertise. The Enterprise pla
 
 Special tax benefits apply for Portuguese companies. 
 [Reach out for more information here.](contact.md)
-
-### 3. Schedule a Meeting
-
-Once your payment is confirmed, please use the embedded Calendly form below to schedule your session:
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/miguelcabrita-eai/consultation-call" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
