@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Miguel Cabrita"
-excerpt: "AI Adoption Expert - Transforming Businesses with Data AI solutions."
+excerpt: "AI Transformation Specialist - Transforming Businesses with Data AI solutions."
 author_profile: true
 ---
 
