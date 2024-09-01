@@ -26,7 +26,7 @@ I offer personalized consulting sessions to help you with your data strategy and
 
 #### 2-Hour Deep Dive
 **Price:** €350  
-**Description:** A comprehensive 2-hour session for in-depth exploration of AI and data strategies.
+**Description:** A 2-hour meeting with two senior data professionals, for in-depth exploration of AI and data strategies.
 
 [Book Now!](https://calendar.app.google/t8dZKS8YrLvta2qi6){: .btn target="_blank"}
 
