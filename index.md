@@ -1,13 +1,13 @@
 ---
 layout: default
 title: "Miguel Cabrita"
-excerpt: "AI Transformation Specialist - Transforming Businesses with Data AI solutions."
+excerpt: "AI Enabler - Transforming Businesses with Data AI solutions."
 author_profile: true
 ---
 
 # Welcome to my page!
 
-I'm Miguel Cabrita, an AI Adoption Expert focused on leveraging Data & AI to drive business success. Explore how I can help transform your business through innovative AI-powered solutions.
+I'm Miguel Cabrita, an AI Enabler focused on leveraging Data & AI to drive business success. Explore how I can help transform your business through innovative AI-powered solutions.
 
 ## What I Offer
 

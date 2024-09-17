@@ -5,7 +5,7 @@ title: "About Me"
 
 # About Miguel Cabrita
 
-I am an AI Adoption Expert with a passion for transforming complex challenges into actionable solutions. With a background in computational mathematics and extensive experience across various industries, I co-founded Enlightenment.AI (EAI) to deliver innovative, AI-powered strategies that drive measurable business outcomes.
+I am an AI Enabler with a passion for transforming complex challenges into actionable solutions. With a background in computational mathematics and extensive experience across various industries, I co-founded Enlightenment.AI (EAI) to deliver innovative, AI-powered strategies that drive measurable business outcomes.
 
 ## Professional Journey
 
